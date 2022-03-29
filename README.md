@@ -1,2 +1,2 @@
 # chat-java-rmi
-Web Chat created usign Java RMI
+Desktop APP that implements a Chat usign Java RMI
